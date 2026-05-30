@@ -1,5 +1,7 @@
 # Autodesk Inventor Discord Rich Presence
 
+![Discord RPC Preview](SSRPC.png)
+
 A lightweight, robust background application that automatically updates your Discord Rich Presence to show what you are actively designing in Autodesk Inventor!
 
 ## Features
